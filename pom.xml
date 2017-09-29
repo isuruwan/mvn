@@ -10,7 +10,7 @@
   <scm>
 		<url>https://github.com/isuruwan/mvn/</url>
 		<connection>scm:git:https://github.com/isuruwan/mvn.git</connection>
-    <tag>HEAD</tag>
+    <tag>mvn-app-1.6</tag>
   </scm>
   <distributionManagement>
     <snapshotRepository>
